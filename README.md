@@ -12,4 +12,4 @@ For example, subunit counting using photobleaching of fluorophores is a robust s
 
 
 
-Here the program contains a classification analysis based on three distinct experiments with the same set of fluorophores (e.g., mEGFP, mGold) based on their two properties i.e. i) photobleaching steps and ii) photoncount
+Here the program contains a classification analysis based on three distinct experiments with the same set of fluorophores (e.g., mEGFP, mGold) based on their two properties i.e. i) photobleaching steps and ii) photoncount. In the program mEGFP and mGold regions are denoted by blue and red respectively.
