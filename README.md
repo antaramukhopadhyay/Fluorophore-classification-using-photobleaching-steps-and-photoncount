@@ -8,7 +8,8 @@ For example, subunit counting using photobleaching of fluorophores is a robust s
 ![gfpyfpsubunitcounting](https://github.com/antaramukhopadhyay/Fluorophore-classification-using-photobleaching-steps-and-photoncount/assets/160405848/e951a381-1259-4131-abe1-123e64706cdf)
 
 ## **Representative example of fluorophore step-ratios and photoncount distribution** ##
-![gfpyfpstepratiophotoncount classification](https://github.com/antaramukhopadhyay/Fluorophore-classification-using-photobleaching-steps-and-photoncount/assets/160405848/486e5917-3f23-4d3f-ba25-1337c9e9e5ed)
+![gfpyfpstepratiophotoncount classification](https://github.com/antaramukhopadhyay/Fluorophore-classification-using-photobleaching-steps-and-photoncount/assets/160405848/c1e6c572-2866-413c-a36e-511d2dc0e709)
 
 
-Here the program is a preliminary approach to classify fluorophores for better image analysis.
+
+Here the program contains a classification analysis based on three distinct experiments with the same set of fluorophores (e.g., mEGFP, mGold) based on their two properties i.e. i) photobleaching steps and ii) photoncount
