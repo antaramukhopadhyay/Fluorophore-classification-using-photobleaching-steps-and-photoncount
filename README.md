@@ -12,5 +12,5 @@ For example, subunit counting using photobleaching of fluorophores is a robust s
 
 
 
-Here the program contains a classification analysis based on three distinct experiments with the same set of fluorophores (e.g., mEGFP, mGold) based on their two properties i.e. i) photobleaching steps and ii) photoncount. In the program mEGFP and mGold regions are denoted by blue and red respectively.
+Here the program contains a binary classification analysis based on three distinct experiments with the same set of fluorophores (e.g., mEGFP, mGold) based on their two properties i.e. i) photobleaching steps and ii) photoncount. In the program mEGFP and mGold regions are denoted by blue and red respectively.
 mGold have lower photoncount and step-ratio than mEGFP. This can be the result of the experimental setup and the excitation laser wavelength (we used single 488 nm laser to excite both mEGFP and mGold). That is why we observe mGold region (denoted by red) at the extreme lower left corner.
